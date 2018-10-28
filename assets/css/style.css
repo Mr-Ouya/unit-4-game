@@ -23,6 +23,7 @@ body {
     justify-content:space-around;
     align-items:center;
     border:1px solid red;
+    height:30px;
 }
 
 .crystalBtn {

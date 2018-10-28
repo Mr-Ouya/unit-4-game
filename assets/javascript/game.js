@@ -5,17 +5,17 @@ var win;
 
 $(document).ready(function () {
    
-    var random = Math.floor(Math.random() * 100) 
+    var random = Math.floor(Math.random()) 
     console.log(randomNum)
     
    
-    var yellowNumber = Math.floor(Math.random() * 12) 
+    var yellowNumber = Math.floor(Math.random()) 
     console.log(blueNum)
-    var blueNumber = Math.floor(Math.random() * 12) 
+    var blueNumber = Math.floor(Math.random()) 
     console.log(pinkNum)
-    var redNumber = Math.floor(Math.random() * 12) 
+    var redNumber = Math.floor(Math.random()) 
     console.log(greenNum)
-    var pinkNumber = Math.floor(Math.random() * 12)
+    var pinkNumber = Math.floor(Math.random()g)
     console.log(yellowNum)
 
 }
