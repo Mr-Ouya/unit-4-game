@@ -11,6 +11,41 @@ body {
 }
 .title {
     background-color:green;
-    
-
 }
+.crystal{
+    border:1px solid black;
+    height:250px;
+    width:250px;
+}
+.crystals{
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+    align-items:center;
+    border:1px solid red;
+}
+
+.crystalBtn {
+    
+    background-size:cover;  
+}
+img {
+    background-size:cover;    
+}
+
+#yellowCrystal {
+    background-image: url("./images/yellowcrystal.jpg")
+}
+
+#blueCrystal {
+    background-image: url("./images/yellowcrystal.jpg")
+}
+
+#redCrystal {
+    background-image: url("./images/yellowcrystal.jpg")
+}
+
+#pinkCrystal {
+    background-image: url("./images/yellowcrystal.jpg")
+}
+
