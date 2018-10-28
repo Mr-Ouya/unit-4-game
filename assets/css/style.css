@@ -1,0 +1,16 @@
+body {
+    
+        background-image: url("../images/background.jpg");
+        background-color: #cccccc;
+     
+}
+
+#main-container {
+    background-color:red;
+    
+}
+.title {
+    background-color:green;
+    
+
+}
