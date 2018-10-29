@@ -27,7 +27,7 @@ body {
 }
 
 .crystalBtn {
-    
+    border-radius:50%;
     background-size:cover;  
 }
 img {
@@ -35,18 +35,49 @@ img {
 }
 
 #yellowCrystal {
-    background-image: url("./images/yellowcrystal.jpg")
+    background-image: url("../images/yellowcrystal.jpg");
+    background-size:'100%';
+    border-radius:50%;
 }
 
 #blueCrystal {
-    background-image: url("./images/yellowcrystal.jpg")
+    background-image: url("../images/bluecrystal.jpg");
+    background-size:'100%';
+    border-radius:50%;
 }
 
 #redCrystal {
-    background-image: url("./images/yellowcrystal.jpg")
+    background-image: url("../images/redcrystal.jpg");
+    background-size:'100%';
+    border-radius:50%;
 }
 
 #pinkCrystal {
-    background-image: url("./images/yellowcrystal.jpg")
+    background-image: url("../images/pinkcrystal.jpg");
+    background-size:'100%';
+    border-radius:50%;
 }
-
+/*to make buttons taller and not super short*/
+.row {
+    height:250px;
+}
+#instructions {
+    background-color: beige;
+    
+}
+#randomNumberContainer {
+    background-color: beige;
+    
+}
+#currentNumberContainer {
+    background-color: beige;
+    
+}
+#winsNumberContainer {
+    background-color: beige;
+   
+}
+#lossesNumberContainer {
+    background-color: beige;
+    
+}
